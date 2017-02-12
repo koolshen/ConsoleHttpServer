@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<appSettings>
+  <add key="PortNumber" value="80" />
+  <add key="DbFile" value="Guestbook/UserMessages.xml" />
+</appSettings>

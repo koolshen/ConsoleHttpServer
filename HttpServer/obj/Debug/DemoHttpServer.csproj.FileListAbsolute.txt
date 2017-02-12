@@ -1,0 +1,14 @@
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\HttpServer.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\HttpServer.pdb
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\obj\Debug\HttpServer.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\obj\Debug\HttpServer.pdb
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\HttpServer.dll.config
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\EntityFramework.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\System.Data.SQLite.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\EntityFramework.xml
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anna\documents\visual studio 2015\Projects\CustomHttpServer\HttpServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Anna\Documents\Visual Studio 2015\Projects\CustomHttpServer\HttpServer\obj\Debug\DemoHttpServer.csprojResolveAssemblyReference.cache
